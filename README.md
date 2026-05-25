@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/044a0936-9b2e-4629-a0a1-5a5ee30b7f15" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/044a0936-9b2e-4629-a0a1-5a5ee30b7f15" />
 
 
 # osu!lazer
